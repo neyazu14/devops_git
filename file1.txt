@@ -1,2 +1,2 @@
 Hello, I am file1.txt. I am change ready to be staged. I am a new change. Will I disappear? Stage1 Stage2. I am change after branch2.
-I am change in the master branch after the change in branch1.
+I am change in the master branch after the change in branch1. I am a change from branch1.
